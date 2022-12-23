@@ -26,9 +26,10 @@ body{
     padding: 5px 5%;
 }
 
-.container .main{
+.container .main-video{
     background:#3c2065;
-    margin: 20px;
+    border-radius: 5px;
+    padding: 10px;
 
 }
 
